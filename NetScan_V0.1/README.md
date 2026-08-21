@@ -187,7 +187,7 @@ The developer is not responsible for misuse of this software.
 
 ## 👨‍💻 Author
 
-**Kalhara**
+**Kalhara Nonis**
 
 A learning project focused on:
 
