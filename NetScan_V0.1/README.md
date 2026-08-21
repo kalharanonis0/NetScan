@@ -8,17 +8,17 @@ The project is created for **learning network programming, TCP connections, port
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔎 TCP port scanning
-* 🎯 Scan a specific target IP address or hostname
-* 🔢 Custom start and end port range
-* 🟢 Detect open TCP ports
-* 🔐 Basic service identification based on common port numbers
-* 📊 Display scan results in a simple table
-* 🔁 Continue scanning multiple targets without restarting the application
-* ⏱️ 500 ms connection timeout for each port
-* 💻 Lightweight C# console application
+*  TCP port scanning
+*  Scan a specific target IP address or hostname
+*  Custom start and end port range
+*  Detect open TCP ports
+*  Basic service identification based on common port numbers
+*  Display scan results in a simple table
+*  Continue scanning multiple targets without restarting the application
+*  500 ms connection timeout for each port
+*  Lightweight C# console application
 
 ---
 
@@ -33,7 +33,7 @@ The project is created for **learning network programming, TCP connections, port
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 NetScan_V0.1/
@@ -44,7 +44,7 @@ NetScan_V0.1/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 NetScan attempts to establish a TCP connection to each port within the selected port range.
 
@@ -81,7 +81,7 @@ Scan completed.
 
 ---
 
-## 🔐 Supported Services
+##  Supported Services
 
 NetScan currently recognizes several common ports:
 
@@ -111,7 +111,7 @@ Unknown
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
@@ -149,7 +149,7 @@ Enter stop port : 100
 
 ---
 
-## 🧪 Example
+##  Example
 
 Scanning a local machine:
 
@@ -175,7 +175,7 @@ Scan completed.
 ---
 
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 NetScan is developed for **educational and authorized security testing purposes**.
 
@@ -195,7 +195,7 @@ A learning project focused on:
 
 ---
 
-## ⭐ Project Status
+##  Project Status
 
 **Version:** `v0.1`
 
