@@ -1,4 +1,12 @@
-## 🔗 Repository
+# 🔍 NetScan V0.1
+
+**NetScan** is a simple C# console-based TCP port scanning tool inspired by network scanning tools such as Nmap.
+
+The project is created for **learning network programming, TCP connections, port scanning, and basic cybersecurity concepts** using C# and .NET.
+
+> ⚠️ **Educational Use Only:** Use NetScan only on systems and networks that you own or have explicit permission to scan.
+
+---
 
 The complete source code for **NetScan V0.1** is available on GitHub:
 
