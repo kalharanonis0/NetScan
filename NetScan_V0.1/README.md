@@ -174,43 +174,6 @@ Scan completed.
 
 ---
 
-## 🧠 Learning Objectives
-
-This project helps demonstrate:
-
-* TCP/IP fundamentals
-* TCP client connections
-* Port scanning concepts
-* Socket programming in C#
-* Exception handling
-* Loops and conditional statements
-* Dictionaries and key-value data
-* Basic network security concepts
-* Console application development
-
----
-
-## 🔮 Future Improvements
-
-Planned features for future versions:
-
-* [ ] Command-line arguments
-* [ ] Specific port scanning (`22,80,443`)
-* [ ] Port range syntax (`1-1000`)
-* [ ] Multithreaded/asynchronous scanning
-* [ ] Faster scanning
-* [ ] Host availability detection
-* [ ] Banner grabbing
-* [ ] More accurate service detection
-* [ ] Scan progress indicator
-* [ ] Scan duration measurement
-* [ ] JSON/CSV report export
-* [ ] Better error handling
-* [ ] GUI version
-* [ ] Network host discovery
-* [ ] Improved Nmap-like command options
-
----
 
 ## ⚠️ Disclaimer
 
