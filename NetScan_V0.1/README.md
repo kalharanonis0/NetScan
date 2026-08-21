@@ -22,7 +22,7 @@ The project is created for **learning network programming, TCP connections, port
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 * **C#**
 * **.NET**
