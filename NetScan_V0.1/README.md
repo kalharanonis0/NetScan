@@ -36,7 +36,7 @@ The project is created for **learning network programming, TCP connections, port
 ## 📂 Project Structure
 
 ```text
-NetScan/
+NetScan_V0.1/
 │
 ├── Program.cs
 └── README.md
@@ -116,7 +116,7 @@ Unknown
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/kalharanonis0/NetScan.git
 ```
 
 ### 2. Open the project
