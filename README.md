@@ -10,7 +10,7 @@ The project is created for **learning network programming, TCP connections, port
 
 The complete source code for **NetScan V0.2** is available on GitHub:
 
-[NetScan V0.1 — GitHub Repository](https://github.com/kalharanonis0/NetScan/tree/main/NetScan_V0.1)
+[NetScan V0.1 — GitHub Repository](https://github.com/kalharanonis0/NetScan/tree/main/NetScan_V0.1);
 [NetScan V0.2 — GitHub Repository](https://github.com/kalharanonis0/NetScan/tree/main/NetScan_V0.2)
 
 ### Clone the Repository
